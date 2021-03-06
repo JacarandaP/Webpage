@@ -1,0 +1,94 @@
+body{
+    background-color:#f3ebe3;
+
+    
+}
+
+a {
+    font-family: 'Noto Sans JP', sans-serif; 
+    text-decoration: none;
+    padding: 1em;
+}
+
+a:link {color: #855454;}
+
+a:visited{color:hsla(4, 86%, 14%, 0.725)}
+
+a:hover{color:#df5858}
+
+h1 {
+    font-family: 'Assistant', sans-serif;font-size: 3em; color:#7a0f08b9;
+    text-align: center;
+}
+h2{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #3f0804b9;
+    margin-left: 0;
+    font-weight: bolder;
+}
+
+
+img {
+    float: left;
+    margin-top: 0em;
+    padding-right: 1em;
+}
+div.profilepic{
+    display: block;
+    margin-left:15px;
+    margin-right: auto;
+    width: 22%;
+    float: left;
+    padding-right: 1em;
+}
+
+div.photofoot-profile{ 
+    text-align: center;
+    font-family: 'Work Sans', sans-serif; font-size: 16px; 
+    font-weight: bold;
+    color:#7a0f08b9;
+    padding-right: 2em;
+    float: inherit;
+}
+
+div.gallery {
+    padding-right: 1em; 
+    float: left;
+    padding-bottom: 3em;
+}
+
+div.photofoot {
+    padding: 15px;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif; font-size: 18px; 
+    font-weight: bold;
+    color:#7a0f08b9;
+}
+
+.myParagraph{
+    margin-top: 5em;
+    word-break: keep-all;
+    text-justify: newspaper;
+    font-family: 'Work Sans', sans-serif; 
+    font-size: 18px;
+    padding-left: 1em;
+    
+}
+.myprojects{
+    font-family: 'Noto Sans JP', sans-serif; 
+    padding: 0em;
+    padding-bottom: 1em;
+    color:hsla(4, 86%, 14%, 0.725);
+}
+
+.pagefoot{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 15px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    padding-bottom: 15px;
+}
+
